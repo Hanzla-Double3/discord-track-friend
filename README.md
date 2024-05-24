@@ -1,7 +1,7 @@
 # discord-track-friend
 Well, I ain't made this. There is this person lives inside me who want to stalk others. He thinks he can automate everthing.
 
-Its just look if a person is in your friend list or not after every 3 hours. If not It sent notification on your phone
+Its just look if a person is in your friend list or not after every 30 minutes. If not It sent notification on your phone
 
 # Configure
 Go pushbullet.com -> signup -> get api key
