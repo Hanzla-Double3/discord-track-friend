@@ -1,4 +1,4 @@
 __pycache__/
-
+venv/
 log.txt
 Secrets.json
